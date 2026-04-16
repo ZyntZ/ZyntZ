@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,25:0f172a,50:1e3a8a,75:15803d,100:22c55e&height=200&section=header&text=ZyntZ&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=biotech%20%C2%B7%20sfedu%20%C2%B7%20bioinformatics%20%C2%B7%20code&descAlignY=56&descSize=16&descColor=94a3b8" width="100%" />
 <div align="center">
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&height=40&lines=Wellllcome!!;In+vivo%2C+in+vitro%2C+in+silico...+in+denial;Pipette+go+brrrrrrrrt" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&height=40&lines=Wellllcome!!;In+vivo%2C+in+vitro%2C+in+silico...+in+denial;Pipette+go+brrrrrrrrt;(I'm+out+of+ideas)" alt="Typing SVG" /></a>
 <br /><br />
 
 <!-- Badges -->
