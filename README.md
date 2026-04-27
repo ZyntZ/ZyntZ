@@ -1,13 +1,8 @@
 <!-- ZyntZ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,25:0f172a,50:1e3a8a,75:15803d,100:22c55e&height=200&section=header&text=ZyntZ&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=💚q(≧▽≦q)&descAlignY=56&descSize=16&descColor=94a3b8" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,25:0f172a,50:1e3a8a,75:15803d,100:22c55e&height=200&section=header" width="100%" />
 
 <div align="center">
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&height=40&lines=Wellllcome!!;EEG+go+brrrrrrrrt;pipette+go+brrrrrrrrt+too;(I'm+out+of+ideas)" alt="Typing SVG" /></a>
-
-<br /><br />
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=ZyntZ&label=visitors&color=16a34a&style=flat-square" alt="visitors" />
