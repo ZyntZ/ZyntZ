@@ -35,7 +35,7 @@
 </div>
 
 
-## `$ cat /proc/stack`
+## `$ stack`
 
 <div align="center">
 
@@ -129,15 +129,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
-<br />
-
-<!-- Random dev quote -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
 </div>
 
