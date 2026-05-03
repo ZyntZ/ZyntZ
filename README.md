@@ -26,11 +26,9 @@
 <div align="center">
 <br />
 
-&nbsp;&nbsp;`brain-computer interfaces` &nbsp;`neural signal processing` &nbsp;`EEG / ECoG / fMRI`  
-&nbsp;&nbsp;`neurofeedback` &nbsp;`motor imagery decoding` &nbsp;`neural prosthetics` &nbsp;`prosthetics`  
-&nbsp;&nbsp;`biotech` &nbsp;`bioremediation` &nbsp;`synthetic biology` &nbsp;`bioinformatics`  
-&nbsp;&nbsp;`computational neuroscience` &nbsp;`ML for neural data` &nbsp;`genomics`  
-&nbsp;&nbsp;`scientific automation` &nbsp;`data analysis`
+&nbsp;&nbsp;`BCI` &nbsp;`neural signal processing` &nbsp;`EEG / ECoG / fMRI` &nbsp;`neurofeedback` &nbsp;`neural prosthetics` &nbsp;`computational neuroscience` &nbsp;`biotech`  
+&nbsp;&nbsp;`motor imagery decoding` &nbsp;`prosthetics` &nbsp;`bioremediation`&nbsp;`ML for neural data` &nbsp;`bioinformatics` &nbsp;`synthetic biology` &nbsp;`genomics`   
+&nbsp;&nbsp;`scientific automation` &nbsp;`data analysis`    
 
 </div>
 
