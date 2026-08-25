@@ -1,6 +1,6 @@
 # Anna Sokolova
 
-Biotechnology undergraduate at Southern Federal University. Working toward neurotechnology, BCI, biosignal analysis, and neuroprosthetics.
+Biotechnology research Southern Federal University. Working toward neurotechnology, BCI, biosignal analysis, and neuroprosthetics.
 
 ## Current focus
 - Reproducible EEG/BCI analysis
