@@ -16,4 +16,4 @@
 
   ## Contact
   <a href="https://orcid.org/0009-0000-5733-9994"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0000--5733--9994-A6CE39?logo=orcid&logoColor=white"></a>
-  <a href="mailto:ansokolova@sfedu.ru"><img alt="Email" src="https://img.shields.io/badge/Email-ansokolova%40sfedu.ru-6B7280?logo=gmail&logoColor=white"></a>
+  <a href="mailto:asok.sci@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-asok.sci%40gmail.com-6B7280?logo=gmail&logoColor=white"></a>
