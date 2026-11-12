@@ -1,4 +1,3 @@
-# Anna Sokolova
 
   <strong>Neurotechnology · Brain–computer interfaces · EEG/EMG · Reproducible science</strong>
 
